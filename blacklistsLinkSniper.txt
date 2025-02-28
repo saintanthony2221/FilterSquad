@@ -33,3 +33,4 @@
 0.0.0.0 planoly.store
 0.0.0.0 toastycakez.com
 0.0.0.0 onlyfans.com
+fans.link
