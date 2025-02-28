@@ -27,3 +27,4 @@
 0.0.0.0 snipfeed.co
 0.0.0.0 hey.link
 0.0.0.0 withkoji.com
+0.0.0.0 getallmylinks.com
