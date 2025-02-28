@@ -1,0 +1,29 @@
+# LinkSniper
+# Version: 1.0
+# Last Update: 28-02-2025
+# Homepage: https://gist.github.com/saintanthony2221
+# Canonical URL for this file: https://github.com/saintanthony2221/FilterSquad/new/blacklistsLinkSniper.txt
+##########Site List 1##########
+0.0.0.0 linktr.ee
+0.0.0.0 hoo.be
+0.0.0.0 beacons.ai
+0.0.0.0 campsite.bio
+0.0.0.0 taplink.cc
+0.0.0.0 bio.fm
+0.0.0.0 allmylinks.com
+0.0.0.0 linkin.bio
+0.0.0.0 shor.by
+0.0.0.0 direct.me
+0.0.0.0 flow.page
+0.0.0.0 litelink.at
+0.0.0.0 instabio.cc
+0.0.0.0 solo.to
+0.0.0.0 many.link
+0.0.0.0 about.me
+0.0.0.0 linksome.me
+0.0.0.0 lnk.bio
+0.0.0.0 plinkhq.com
+0.0.0.0 poplme.co
+0.0.0.0 snipfeed.co
+0.0.0.0 hey.link
+0.0.0.0 withkoji.com
