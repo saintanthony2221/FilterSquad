@@ -28,3 +28,7 @@
 0.0.0.0 hey.link
 0.0.0.0 withkoji.com
 0.0.0.0 getallmylinks.com
+0.0.0.0 link.me
+0.0.0.0 onlyfeed.co
+0.0.0.0 planoly.store
+0.0.0.0 toastycakez.com
