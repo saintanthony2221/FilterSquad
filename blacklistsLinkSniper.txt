@@ -3,7 +3,7 @@
 # Last Update: 28-02-2025
 # Homepage: https://gist.github.com/saintanthony2221
 # Canonical URL for this file: https://github.com/saintanthony2221/FilterSquad/new/blacklistsLinkSniper.txt
-##########Site List 1 - Link aggregators and related nsfw to block
+##########Site List 1 - Link aggregators and related nsfw to block##########
 0.0.0.0 10k.bio
 0.0.0.0 4fapp.com
 0.0.0.0 about.me
